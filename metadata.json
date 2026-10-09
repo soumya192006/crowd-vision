@@ -1,0 +1,6 @@
+{
+  "name": "CrowdVision - People Counting & Tracking System",
+  "description": "Offline People Counting & Tracking Dashboard powered by YOLOv8 and ByteTrack architecture with simulated tracking analytics, video monitoring, and Python backend bridge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
